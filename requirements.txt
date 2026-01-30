@@ -2,7 +2,7 @@
 streamlit==1.28.0
 
 # FAISS vector store
-faiss-cpu==1.7.4
+faiss-cpu
 
 # LangChain core + community modules
 langchain==1.2.7
